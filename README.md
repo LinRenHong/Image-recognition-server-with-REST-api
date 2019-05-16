@@ -11,7 +11,7 @@ cd Server/
 sudo pip install -r requirements.txt
 ```
 
-4. Run the server (Default `IP` and `port` of server is `0.0.0.0:5050`, and your can modify them in YoloServer.py).
+4. Run the server (Default `IP` and `port` of server is `0.0.0.0:5050`, and you can modify them in YoloServer.py).
 ```
 python YoloServer.py
 ```
