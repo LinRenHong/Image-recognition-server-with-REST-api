@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "1945a868ba7942e2a5e7a277fa94f5ce"
+build_time: [1557940010, 97394000]
+inputs:
+  "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ResultFirstViewController.swift": [1539930325, 903806329]
+  "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift": [1557940000, 778094021]
+  "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/AppDelegate.swift": [1526307606, 0]

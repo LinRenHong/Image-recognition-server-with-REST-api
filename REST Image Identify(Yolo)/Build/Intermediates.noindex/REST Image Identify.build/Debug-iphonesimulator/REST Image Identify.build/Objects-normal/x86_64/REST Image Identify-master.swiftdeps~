@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "a8126880d8383075218611c04a53a565"
+build_time: [1539228231, 537663000]
+inputs:
+  "/Users/linrenhong/Documents/Mac Program/Swift/REST Image Identify(Yolo)/REST Image Identify/ResultFirstViewController.swift": [1528288390, 0]
+  "/Users/linrenhong/Documents/Mac Program/Swift/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift": [1538982470, 0]
+  "/Users/linrenhong/Documents/Mac Program/Swift/REST Image Identify(Yolo)/REST Image Identify/AppDelegate.swift": [1526307606, 0]

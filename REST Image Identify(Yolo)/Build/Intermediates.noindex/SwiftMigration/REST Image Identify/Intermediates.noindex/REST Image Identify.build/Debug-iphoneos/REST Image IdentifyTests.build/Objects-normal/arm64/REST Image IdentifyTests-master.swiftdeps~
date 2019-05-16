@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "f75353ee2f43742e8a9195de286b3667"
+build_time: [1537342988, 3360000]
+inputs:
+  "/Users/linrenhong/Documents/Mac Program/Swift/REST Image Identify(Yolo)/REST Image IdentifyTests/REST_Image_IdentifyTests.swift": [1526307608, 0]

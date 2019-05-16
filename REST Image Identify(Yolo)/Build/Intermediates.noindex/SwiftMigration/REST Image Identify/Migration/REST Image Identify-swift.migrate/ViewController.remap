@@ -1,0 +1,81 @@
+[
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 2893,
+    "remove": 1,
+    "text": "UIImagePickerCon"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 2896,
+    "remove": 1,
+    "text": "oller.I"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 2898,
+    "remove": 1,
+    "text": "foKey"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 2910,
+    "text": "// Local variable inserted by Swift 4.2 migrator.\nlet info = convertFromUIImagePickerControllerInfoKeyDictionary(info)\n\n"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 2936,
+    "text": "convertFrom"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 2959,
+    "remove": 1,
+    "text": "InfoKey(UIImagePickerController.InfoKey.o"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 2972,
+    "text": ")"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 3664,
+    "remove": 3,
+    "text": "i"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 3671,
+    "remove": 5,
+    "text": ".jp"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 3677,
+    "text": "gData(com"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 3681,
+    "remove": 5,
+    "text": "s"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 3689,
+    "remove": 3,
+    "text": "Qu"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 3693,
+    "remove": 3,
+    "text": "lity:"
+  },
+  {
+    "file": "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image Identify/ViewController.swift",
+    "offset": 7737,
+    "text": "\n// Helper function inserted by Swift 4.2 migrator.\nfileprivate func convertFromUIImagePickerControllerInfoKeyDictionary(_ input: [UIImagePickerController.InfoKey: Any]) -> [String: Any] {\n\treturn Dictionary(uniqueKeysWithValues: input.map {key, value in (key.rawValue, value)})\n}\n\n// Helper function inserted by Swift 4.2 migrator.\nfileprivate func convertFromUIImagePickerControllerInfoKey(_ input: UIImagePickerController.InfoKey) -> String {\n\treturn input.rawValue\n}\n"
+  }
+]
