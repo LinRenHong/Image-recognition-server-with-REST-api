@@ -17,6 +17,8 @@ class ViewController: UIViewController,
     
     @IBOutlet weak var ImageDisplay: UIImageView!
     
+    let impact = UIImpactFeedbackGenerator(style: UIImpactFeedbackGenerator.FeedbackStyle.heavy)
+    
     var image : UIImage?
     var httpResult : String = ""
     var predictResult : String = ""
@@ -68,6 +70,7 @@ class ViewController: UIViewController,
     
 
     @IBAction func PhotoLibraryAction(_ sender: UIButton) {
+        impact.impactOccurred()
         let picker = UIImagePickerController()
         picker.delegate = self
         picker.sourceType = .photoLibrary
