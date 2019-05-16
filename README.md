@@ -16,7 +16,7 @@ sudo pip install -r requirements.txt
 python YoloServer.py
 ```
 
-5. Use `ifconfig | grep inet` to find your ip.
+5. Use `ifconfig | grep inet` to find your IP.
 
 6. Use Xcode to open `REST Image Identify(Yolo)/REST Image Identify.xcodeproj`.
 
