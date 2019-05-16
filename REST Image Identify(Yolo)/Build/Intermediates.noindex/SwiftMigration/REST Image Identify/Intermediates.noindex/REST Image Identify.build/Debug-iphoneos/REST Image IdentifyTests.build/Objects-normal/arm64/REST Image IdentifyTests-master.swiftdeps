@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "81705aa823fddd478cd7c4a0972c2f69"
-build_time: [1557940022, 119343000]
-inputs:
-  "/Users/linrenhong/Documents/Mac Program/Swift/RESTful Server(Yolo)/REST Image Identify(Yolo)/REST Image IdentifyTests/REST_Image_IdentifyTests.swift": [1526307608, 0]
