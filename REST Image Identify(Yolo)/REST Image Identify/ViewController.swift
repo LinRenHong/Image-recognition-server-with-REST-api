@@ -21,6 +21,7 @@ class ViewController: UIViewController,
     var httpResult : String = ""
     var predictResult : String = ""
 
+    
     /*                    Here is very important!!!                    */
     // here must be modify -> YOUR_Server_IP:YOUR_Server_PORT
     // Ex:    SERVER_IP = 172.20.10.4
