@@ -9,4 +9,6 @@ cd Server/
 sudo pip install -r requirements.txt
 ```
 4. Run the server
-`python YoloServer.py` 
+```
+python YoloServer.py` 
+```
