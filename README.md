@@ -1,9 +1,9 @@
 # RESTful-server-image-recognition
 
 ## Quick Start
-1. Because I use Git LFS to push model to my GitHub, so download model from my [model_data](https://github.com/LinRenHong/RESTful-server-image-recognition/blob/master/Server/model_data/yolo.h5).
+1. Because I use Git LFS to push model to my GitHub, so you can download the model from my [model_data](https://github.com/LinRenHong/RESTful-server-image-recognition/blob/master/Server/model_data/yolo.h5).
 
-2. Replace Server/model_data/yolo.h5 with your download yolo.h5 from my [model_data](https://github.com/LinRenHong/RESTful-server-image-recognition/blob/master/Server/model_data/yolo.h5).
+2. Replace Server/model_data/yolo.h5 with yolo.h5 you downloaded from my [model_data](https://github.com/LinRenHong/RESTful-server-image-recognition/blob/master/Server/model_data/yolo.h5).
 
 3. Change directory to Server/ and use `pip` to install necesssary packages of python.
 ```
