@@ -11,7 +11,7 @@ cd Server/
 sudo pip install -r requirements.txt
 ```
 
-4. Run the server (Default `IP` and `port` of server is `0.0.0.0:5050`, and your can modify it).
+4. Run the server (Default `IP` and `port` of server is `0.0.0.0:5050`, and your can modify them in YoloServer.py).
 ```
 python YoloServer.py
 ```
@@ -20,6 +20,6 @@ python YoloServer.py
 
 6. Use Xcode to open `REST Image Identify(Yolo)/REST Image Identify.xcodeproj`.
 
-7. Select `ViewController.swift` and modify the variables `SERVER_IP = "YOUR_SERVER_IP"` and `SERVER_PORT = "YOUR_SERVER_PORT"` <- default port of server is `5050`.
+7. Select `ViewController.swift` and modify the two variables, `SERVER_IP = "YOUR_SERVER_IP"` and `SERVER_PORT = "YOUR_SERVER_PORT"` <- default port of server is `5050`.
 
 8. Run the app on your iOS device.
