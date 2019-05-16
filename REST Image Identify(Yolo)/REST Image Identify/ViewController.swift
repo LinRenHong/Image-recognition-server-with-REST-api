@@ -45,7 +45,7 @@ class ViewController: UIViewController,
         var result : String?
         var success : Bool
         var href : String?
-        var predictions : [ Result ]
+        var predictions : [Result]
        
     }
     
