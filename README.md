@@ -1,4 +1,4 @@
-# RESTful-server-image-recognition
+# Image-recognition-server-with-REST-api
 
 ## Quick Start
 1. Because I use Git LFS to push model to my GitHub, so you can download the model from my [model_data](https://github.com/LinRenHong/RESTful-server-image-recognition/blob/master/Server/model_data/yolo.h5).
